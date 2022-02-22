@@ -20,6 +20,13 @@ If the save button is pressed this will save the note and if the + button is pre
 
 Please use this [link](link to site here) to go to the deployed application on heroku.
 
+## Built with
+
+HTML
+CSS
+Javascript
+Node JS
+
 ## Questions
 
 If there are any questions regarding this project please contact me through my the contact details on my GitHub profile - [DanLawrence91](https://github.com/DanLawrence91)

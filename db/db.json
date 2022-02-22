@@ -2,5 +2,10 @@
     {
         "title": "Test Title",
         "text": "Test text"
+    },
+    {
+        "title": "Get Milk",
+        "text": "Go to the shops and get some milk",
+        "note_id": "0702902c-b570-4de6-afeb-f73e90aaaeab"
     }
 ]
