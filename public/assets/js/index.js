@@ -49,7 +49,6 @@ const saveNote = (note) =>
     .then((response) => response.json())
     .then((data) => {
       alert(data);
-      renderNoteList(note);
     })
     .catch((error) => {
       console.error('Error:', error);
