@@ -2,7 +2,9 @@
 
 ## Description
 
-This application is to be used to write and save notes using express js in the back end and to connect it to a front end using different routes.
+This application is to be used to write and save notes using express js and APIs in the back end and to connect it to a front end using different routes.
+
+Notes can be added and saved - they are saved to a JSON file in the repo. From here the notes are given unique ids and are stored until deleted.
 
 ## Installation
 
