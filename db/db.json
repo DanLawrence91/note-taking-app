@@ -1,36 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Balance books",
+        "text": "Balance all books by next week\n",
+        "note_id": "e4d23b8a-36b5-4076-8836-6174d3c0fc26"
     },
     {
-        "title": "Get Milk",
-        "text": "Go to the shops and get some milk",
-        "note_id": "0702902c-b570-4de6-afeb-f73e90aaaeab"
-    },
-    {
-        "title": "dbvdjhs",
-        "text": "sjdbnfs",
-        "note_id": "f127ca8f-63b2-4557-bcf3-3faf3747db23"
-    },
-    {
-        "title": "hjkdbfdkhbsdsd",
-        "text": "jhsdbicxhvbdfhjx cx",
-        "note_id": "0f564864-254e-4d12-b229-a12e356e5fab"
-    },
-    {
-        "title": "This is a test note",
-        "text": "Testing notes",
-        "note_id": "1d01ffe0-50b5-41f6-b3e8-cfdd18341521"
-    },
-    {
-        "title": "Testing",
-        "text": "testing",
-        "note_id": "9e2ba6a9-5d73-4ccf-9e4e-8f9d22158cdd"
-    },
-    {
-        "title": "run run run",
-        "text": "run run run",
-        "note_id": "3c430041-72f5-4bd0-a2bb-8b46789ab958"
+        "title": "Get groceries",
+        "text": "Go to shops and remember notes",
+        "note_id": "18dc2b7e-df8d-4e38-a380-af4a3c188769"
     }
 ]
